@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+result/
+.env
+automation/chromedriver-mac-arm64/
+chromedriver/
+data/
+automation/
