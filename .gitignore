@@ -1,0 +1,13 @@
+.venv/
+CourseByLevel/no_table.txt
+CourseByLevel/Program_CSVs
+Schedule_Extraction/.gitignore 2
+Schedule_Extraction/.env
+Schedule_Extraction/venv
+Schedule_Extraction/venv/
+Schedule_Extraction/src/__pycache__/
+Schedule_Extraction/result/
+Schedule_Extraction/automation/chromedriver-mac-arm64/
+Schedule_Extraction/chromedriver/
+Schedule_Extraction/data/
+Schedule_Extraction/automation/
